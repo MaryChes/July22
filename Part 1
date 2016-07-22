@@ -1,0 +1,30 @@
+Part 1: Constructor Provided
+1.	public Car()
+	new Car()
+
+2.	public Bean(int weight)
+	new Bean(2)
+
+3.	public Airplane(long maxDistance)
+	new Airplane(2,234,981)
+
+4.	public Bus(int seats)
+	new Bus(54)
+
+5. 	public SkiLift(int chairs, float maxSpeed, float maxCapacity)
+	new SkiLift(150, 3.3, 100.45)
+
+6. 	public Gondola(int maxOccupancy)
+	new Gondola(7)
+
+7. 	public Data(String[] args)
+	new Data(new String[]{"Monday", "Tuesday", "Wednesday"})
+
+8.	public CelestialObject(Double distanceFromSol)
+	new CelestialObject(123.908653257643245)
+
+9. 	public Sun(Double maxSurfaceTemperature)
+	new Sun(745.9992227650985643)
+	
+10. public Pluto(boolean isPlanetOrNot)
+	new Pluto(false)
